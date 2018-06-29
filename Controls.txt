@@ -1,0 +1,15 @@
+General:
+Restart Game Mode: R
+Return to Title Screen: Left Control / Right Control
+
+Player 1:
+Up: W
+Down: S
+Left: A
+Right: D
+
+Player 2:
+Up: Up Arrow
+Down: Down Arrow
+Left: Left Arrow
+Right: Right Arrow
