@@ -1,0 +1,10 @@
+# Ignored Folders
+irrelevant/
+noDice/
+noNeed/
+
+# Compiled Source Files
+*.ignore
+*.class
+*.pyc
+*.dinglehopper
